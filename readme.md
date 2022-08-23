@@ -7,4 +7,4 @@
 * Adding asset images.
 * Adding border radius.
 
-![thumbnail](screenShot.png)
+![thumbnail](sceenShot.png)
