@@ -8,3 +8,6 @@
 * Adding border radius.
 
 ![thumbnail](sceenShot.png)
+
+
+[Deployed Link](https://crypto-landing-page-clone.netlify.app/)
